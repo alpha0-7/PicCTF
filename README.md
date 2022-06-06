@@ -1,4 +1,4 @@
-# Hello, folks! PicoCTF Walkthroughs Links Below:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! PicoCTF Walkthroughs Links Below:
 -> <a href="https://play.picoctf.org/">PicoCTF</a> Walktrhoughs.
 
 
